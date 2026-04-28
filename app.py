@@ -251,8 +251,3 @@ st.markdown("""
     <p>Empowering Young Minds for a Brighter Future</p>
 </div>
 """, unsafe_allow_html=True)
-
-
-
-
-ssh-keygen -t ed25519 -C "your_email@example.com"
